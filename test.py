@@ -1,7 +1,5 @@
 from github import Github
 
-g = Github("Mynk96", "Watthefun@13")
-
 repo_dir = 'Practice'
 repo = Repo(repo_dir)
 file_list = ['test.txt']
